@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-yg7ww7.assetshst.online/sitemap.xml
